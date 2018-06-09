@@ -8,3 +8,6 @@ def display_board
     puts row
     puts dash
 end
+puts row
+end
+display_board
